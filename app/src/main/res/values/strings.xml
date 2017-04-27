@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="fetch_json">Fetch Json</string>
+    <string name="jsonUrl">http://echo.jsontest.com/insert-key-here/insert-value-here/key/value</string>
+</resources>
